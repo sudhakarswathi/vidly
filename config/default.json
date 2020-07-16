@@ -1,5 +1,5 @@
 {
     "name":"My Express app",
     "SwathisApi":"",
-    "db":"mongodb+srv://Swathi:12345@vidly.9jvx1.gcp.mongodb.net/test"
+    "db":""
 }
