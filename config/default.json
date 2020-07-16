@@ -1,5 +1,5 @@
 {
     "name":"My Express app",
     "SwathisApi":"",
-    "db":""
+    "db":"mongodb://localhost:27017/generes"
 }
