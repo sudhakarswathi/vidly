@@ -1,0 +1,31 @@
+{"level":"error","message":"Could not get generes","timestamp":"2020-07-13T12:26:59.456Z"}
+{"level":"error","message":"Could not get generes","timestamp":"2020-07-13T12:38:42.237Z"}
+{"level":"error","message":"Error: Hello error\n    at Object.<anonymous> (C:\\Users\\swathi\\expressdemo\\example.js:37:7)\n    at Module._compile (internal/modules/cjs/loader.js:956:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)\n    at Module.load (internal/modules/cjs/loader.js:812:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:724:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)\n    at internal/main/run_main_module.js:17:11 Hello error","timestamp":"2020-07-13T12:46:58.430Z"}
+{"level":"error","message":"Error: Hello error\n    at Object.<anonymous> (C:\\Users\\swathi\\expressdemo\\example.js:45:7)\n    at Module._compile (internal/modules/cjs/loader.js:956:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)\n    at Module.load (internal/modules/cjs/loader.js:812:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:724:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)\n    at internal/main/run_main_module.js:17:11 Hello error","timestamp":"2020-07-13T12:53:30.866Z"}
+{"level":"error","message":"Error: Hi i am an mongo error\n    at Object.<anonymous> (C:\\Users\\swathi\\expressdemo\\example.js:43:24)\n    at Module._compile (internal/modules/cjs/loader.js:956:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)\n    at Module.load (internal/modules/cjs/loader.js:812:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:724:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)\n    at internal/main/run_main_module.js:17:11 Hi i am an mongo error","timestamp":"2020-07-13T12:53:30.883Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1234\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:27:38.710Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1234\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:27:46.420Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1234\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:28:17.197Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:28:48.485Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:29:03.730Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:31:40.386Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:35:11.012Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:35:29.212Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:35:49.320Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:35:56.829Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:38:15.519Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:41:30.107Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:53:20.758Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"g5f0e941f52d89d1e9c0ef68\" at path \"_id\" for model \"genere\"","timestamp":"2020-07-15T05:55:02.689Z"}
+{"level":"error","message":"rentals is not defined","timestamp":"2020-07-15T11:10:24.246Z"}
+{"level":"error","message":"rentals is not defined","timestamp":"2020-07-15T11:11:51.690Z"}
+{"level":"error","message":"rentals is not defined","timestamp":"2020-07-15T11:12:24.616Z"}
+{"level":"error","message":"rentals is not defined","timestamp":"2020-07-15T11:14:14.943Z"}
+{"level":"error","message":"rentalfee is not defined","timestamp":"2020-07-16T07:20:12.275Z"}
+{"level":"error","message":"Invalid status code: 1900","timestamp":"2020-07-16T07:22:12.406Z"}
+{"level":"error","message":"Invalid status code: 1900","timestamp":"2020-07-16T07:23:19.123Z"}
+{"level":"error","message":"Invalid status code: 1900","timestamp":"2020-07-16T07:26:37.535Z"}
+{"level":"error","message":"Rental.Update is not a function","timestamp":"2020-07-16T09:29:17.726Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2020-07-16T09:33:59.774Z"}
+{"level":"error","message":"Unexpected number in JSON at position 132","timestamp":"2020-07-16T09:38:04.787Z"}
+{"level":"error","message":"Unexpected token \r in JSON at position 134","timestamp":"2020-07-16T09:39:22.402Z"}

@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+routes/
+views/
+Translations.json
+app.js
+Enbedding.js

@@ -1,0 +1,7 @@
+{
+    "name":"My Express app development ",
+    "mail":{
+            "password":"app_password"
+    },
+    "SwathisApi":"vidly_jwtkey"
+}
